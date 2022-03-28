@@ -1,2 +1,2 @@
-# action-sheet-ionic-
+# action-sheet-ionic
 Simple code for action-sheet.
